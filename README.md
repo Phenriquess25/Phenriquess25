@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou Pedro Henrique Santos da Silva</h1>
 <h3 align="center">Graduando em Engenharia da Computação</h3>
 
-- 🔭 Atualmente Bolsista no pragrama de residencia em tic
+- 🔭 Atualmente Bolsista no programa de residencia em tic
 - trabalhando em um projeto de  **sistemas de segurança do trabalho**
 
 ---
