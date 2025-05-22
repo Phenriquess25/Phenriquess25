@@ -11,4 +11,4 @@
 ## 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/seu-link)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:seuemail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:pedro144santos@gmail.com)
