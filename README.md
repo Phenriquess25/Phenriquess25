@@ -2,7 +2,7 @@
 <h3 align="center">Graduando em Engenharia da Computação</h3>
 
 - 🔭 Atualmente Bolsista no programa de residencia em tic
-- trabalhando em um projeto de  **Portal para Locação de Espaços – UFAL**
+- trabalhando em um projeto de  **Portal para Locação de Espaços – SESI**
 
 ---
 
