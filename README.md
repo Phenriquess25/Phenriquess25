@@ -1,9 +1,6 @@
 <h1 align="center">Olá 👋, sou Pedro Henrique Santos da Silva</h1>
 <h3 align="center">Graduando em Engenharia da Computação</h3>
 
-- 🔭 Atualmente Bolsista no **Programa de Residencia em tic**
-- trabalhando em um projeto de  **Portal para Locação de Espaços – SESI**
-
 ---
 
 ### 🌐 Conecte-se comigo
